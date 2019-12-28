@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background-color: rgb(76, 89, 92);
+    color: white;
+}
+
+main {
+    display: inline-block;
+}
+
+#container {
+    width:720px;
+    height:720px;
+    display: grid;
+}
+
+div {
+    background-color: white;
+}
+
+.hover {
+    background-color: black;
+}
